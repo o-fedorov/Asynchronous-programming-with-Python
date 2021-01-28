@@ -1,5 +1,13 @@
+# Credits to the images used in the tutorial:
+
 * [whooper swans on snow.jpg](./whooper%20swans%20on%20snow.jpg) - <span>Photo by <a href="https://unsplash.com/@bist31?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Birger Strahl</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 * [three seagulls.jpg](./three%20seagulls.jpg) - <span>Photo by <a href="https://unsplash.com/@lm9808?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Melina Lorenz</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 * [seagulls in a row.jpg](./seagulls%20in%20a%20row.jpg) - <span>Photo by <a href="https://unsplash.com/@iorni?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">iorni.com</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 * [geese.jpg](./geese.jpg) - <span>Photo by <a href="https://unsplash.com/@vikceo?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">vivek kumar</a> on <a href="https://unsplash.com/s/photos/ducklings?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 * [four rock doves on gray floor.jpg](./four%20rock%20doves%20on%20gray%20floor.jpg) - <span>Photo by <a href="https://unsplash.com/@viktorkeri?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Viktor Keri</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+* [finches and a feeder.jpg](./finches%20and%20a%20feeder.jpg) - <span>Photo by <a href="https://unsplash.com/@jcotten?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joshua J. Cotten</a> on <a href="https://unsplash.com/s/photos/birds-feed?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+* [birds on a wire.jpg](./birds%20on%20a%20wire.jpg) - <span>Photo by <a href="https://unsplash.com/@glencarrie?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Glen Carrie</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+* [piping-async-code.png](./piping-async-code.png) - [CC0 “No Rights Reserved”](https://creativecommons.org/share-your-work/public-domain/cc0/)
+
+
+*If you see an error, please let me know.*
