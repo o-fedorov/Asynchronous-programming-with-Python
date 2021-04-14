@@ -8,6 +8,8 @@
 * [finches and a feeder.jpg](./finches%20and%20a%20feeder.jpg) - <span>Photo by <a href="https://unsplash.com/@jcotten?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joshua J. Cotten</a> on <a href="https://unsplash.com/s/photos/birds-feed?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 * [birds on a wire.jpg](./birds%20on%20a%20wire.jpg) - <span>Photo by <a href="https://unsplash.com/@glencarrie?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Glen Carrie</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 * [piping-async-code.png](./piping-async-code.png) - [CC0 “No Rights Reserved”](https://creativecommons.org/share-your-work/public-domain/cc0/)
+* [piping-async-code-trio.png](./piping-async-code-trio.png) - [CC0 “No Rights Reserved”](https://creativecommons.org/share-your-work/public-domain/cc0/)
+* [baby-ducks.jpg](./baby-ducks.jpg) - <span>Photo by <a href="https://unsplash.com/@varrak?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Smith</a> on <a href="https://unsplash.com/s/photos/baby-ducks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span>
 
 
 *If you see an error, please let me know.*
