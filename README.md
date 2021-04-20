@@ -12,3 +12,7 @@ Contents:
   * Evolution of asynchronous frameworks.
   * Meet Trio, a friendly Python library for async concurrency and I/O.
   * Some practice.
+* Module 3 (Draft) [(open in Colab)](https://colab.research.google.com/github/o-fedorov/Asynchronous-programming-with-Python/blob/main/notebooks/Module3-Asynchronous-programming-with-Python.ipynb).
+  * Introduction to `asyncio`.
+  * Common patterns and gotchas.
+  * Some practice.
