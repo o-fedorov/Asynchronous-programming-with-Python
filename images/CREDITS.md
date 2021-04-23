@@ -10,6 +10,7 @@
 * [piping-async-code.png](./piping-async-code.png) - [CC0 “No Rights Reserved”](https://creativecommons.org/share-your-work/public-domain/cc0/)
 * [piping-async-code-trio.png](./piping-async-code-trio.png) - [CC0 “No Rights Reserved”](https://creativecommons.org/share-your-work/public-domain/cc0/)
 * [baby-ducks.jpg](./baby-ducks.jpg) - <span>Photo by <a href="https://unsplash.com/@varrak?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Steve Smith</a> on <a href="https://unsplash.com/s/photos/baby-ducks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span>
+* [Pi_30K.gif](./Pi_30K.gif) - Own work of [nicoguaro](https://commons.wikimedia.org/wiki/User:Nicoguaro) on <https://commons.wikimedia.org/wiki/File:Pi_30K.gif>, licensed under [Creative commons Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/)
 
 
 *If you see an error, please let me know.*
