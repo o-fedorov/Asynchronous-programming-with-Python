@@ -10,7 +10,7 @@ Contents:
   * Key definitions.
   * What is "async" and "asynchronous".
   * Coroutine objects, `async` and `await` keywords.
-* Module 2 (Draft)
+* Module 2
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/o-fedorov/Asynchronous-programming-with-Python/main?filepath=notebooks%2FModule2-Asynchronous-programming-with-Python.ipynb)
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/o-fedorov/Asynchronous-programming-with-Python/blob/main/notebooks/Module2-Asynchronous-programming-with-Python.ipynb).
   * Evolution of asynchronous frameworks.
